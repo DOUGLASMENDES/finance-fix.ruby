@@ -1,6 +1,6 @@
 = finance-fix.ruby
 
-Description goes here.
+Parse FIX protocol messages.
 
 == Note on Patches/Pull Requests
  
