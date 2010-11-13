@@ -1,0 +1,5 @@
+Revision history for Finance::FIX
+
+0.0.1   2010-11-15 16:19
+        First release of Finance::FIX, a library for parsing FIX protocol messages.
+
